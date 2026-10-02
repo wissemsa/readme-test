@@ -102,7 +102,7 @@ Experience real-time interactive previews inside custom-engineered hardware fram
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/readme-pro-mockup-studio.git
+git clone https://github.com/wissemsa/readme-pro-mockup-studio.git
 
 # Navigate into project directory
 cd readme-pro-mockup-studio
