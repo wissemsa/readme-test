@@ -1,0 +1,6 @@
+{
+  "name": "README Pro & Mockup Studio",
+  "description": "Interactive README showcase with hyper-realistic 3D hardware device mockups (MacBook Pro, iPhone 16 Pro, Studio Display, Browser), live dashboard demo, badge generator, and markdown editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
