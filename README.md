@@ -133,9 +133,6 @@ Visit `http://localhost:3000` to access the interactive web studio.
 Configuration options are available via `.env`:
 
 ```env
-# Optional Gemini AI API key for automated documentation generation
-GEMINI_API_KEY="your-gemini-key"
-
 # Hosted Application URL
 APP_URL="http://localhost:3000"
 ```
